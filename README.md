@@ -4,8 +4,7 @@
 
 ## :clipboard: Origamid - Sobre
 Nome: <strong>Projeto Portfólio<br><br></strong>
-
-Responsivo:  Sim!
+Projeto de portfólio feito durante o curso de Web Design e UX/UI Design da Origamid
 
 ## :computer: Tecnologias utilizadas
 
@@ -14,7 +13,3 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - HTML
 - CSS
 - Git
-
-## :closed_book: Licença
-
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE]() para mais detalhes.
